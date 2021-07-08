@@ -1,0 +1,14 @@
+{
+    "name": "webpack-demo1",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Jeremy Hart <jeremynhart@gmail.com>",
+    "license": "MIT",
+    "scripts": {
+        "build": "webpack"
+    },
+    "devDependencies": {
+        "webpack": "^5.43.0",
+        "webpack-cli": "^4.7.2"
+    }
+}
